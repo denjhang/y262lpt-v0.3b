@@ -6,7 +6,8 @@
 1. Use an active crystal oscillator  
 
 
- ![TIM图片20220402184555](https://user-images.githubusercontent.com/61811583/161380726-95877f5f-27cc-4ab3-8735-bf18646e6da2.jpg)
-![TIM图片20220402184542](https://user-images.githubusercontent.com/61811583/161380733-4bcbd1a5-5e35-42ff-b918-f8facd8029f3.jpg)
+![TIM图片20220402184555](https://user-images.githubusercontent.com/61811583/161380726-95877f5f-27cc-4ab3-8735-bf18646e6da2.jpg)
+
+
 
 
